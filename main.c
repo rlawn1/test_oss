@@ -1,9 +1,7 @@
 #include <stdio.h>
 
-int main(){
-  int a = 100;
+int main() {
+	printf("Hello World");
 
-  printf("%d", a);
-
-  return 0;
+	return 0;
 }
